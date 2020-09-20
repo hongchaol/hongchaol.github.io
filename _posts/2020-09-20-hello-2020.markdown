@@ -1,0 +1,28 @@
+---
+layout:     post
+title:      "Hello 2020"
+subtitle:   " \"Hello World, Hello My Blog\""
+date:       2020-09-20 16:16:00
+author:     "Hchlee"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - 生活
+    - Meta
+---
+
+> “还是要靠自己 ”
+
+
+开始自己的博客，学习MarkDown。
+**自己的才是最合适的**
+  
+
+<p id = "build"></p>
+
+## 正文
+ 希望能够坚持下去
+ * 自己的工作积累
+ * 自己的生活感悟
+ * 自己的异想天开
+
